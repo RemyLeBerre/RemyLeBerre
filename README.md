@@ -1,0 +1,13 @@
+- 👋 GM, I’m @RemyLeBerre
+  - Full time @Parity
+  - Ex Interlay & Kintsugi
+- 🌱 I’m currently learning
+  - RUST (Substrate)
+  - VanillaJS
+    - ReactJS
+    - NextJS
+- 💞️ I’m looking to collaborate on
+  - Any and all front end work
+- 📫 How to reach me
+  - https://x.com/remyGFLeBerre
+  - TG: Remy_LeBerre
