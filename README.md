@@ -1,14 +1,17 @@
 - 👋 GM, I’m @RemyLeBerre
   - Full time @Parity
-  - Ex Interlay & Kintsugi
+    - Product Eng: Data Team
+  - Ex @Interlay & @Kintsugi
 - 🌱 I’m currently learning / Building
   - RUST (Substrate)
-  - VanillaJS
-    - ReactJS
-    - NextJS
+  - Javascipt / Typescript / React / NextJS
+    - Will build you the best looking UI/UX :D
 - 💞️ I’m looking to collaborate on
   - Any and all front end work
   - Documentation curatation
+  - Chrome Extension development
+  - DevX
+  - Anything & everything Polkadot eco related
 - 📫 How to reach me
   - https://x.com/remyGFLeBerre
   - TG: Remy_LeBerre
